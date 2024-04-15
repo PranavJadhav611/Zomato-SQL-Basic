@@ -1,4 +1,4 @@
-# Zomato-SQL-Basic
+# Zomato-SQL-Basic_to_Intermediate
 
 
 **Project Overview:**
